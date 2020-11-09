@@ -1,7 +1,7 @@
 # Discord.js
-<h1>Hai guys this a Discord Bot using Discord.js.</h1>
-with simple command like
-1.!help command you can customize.
+<h3>Hai guys this a Discord Bot using Discord.js.</h3>
+<h3>with simple command like</h3>
+<p>1.!help command you can customize.</p>
 2.!servers by using this command to see the server members status using => !servers
 3.!status hello world" ->  to change bot status => playing hello world
 4.Poll --> automatically react with a thumbs up and down emojis in specific channels. 
