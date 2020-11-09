@@ -1,6 +1,7 @@
 # Discord.js
 <p>you need to put your <b>token,prefix,categoryId</b>in <b>roe-bot.json</b></P>
 <hr>
+<img alt="Dark Squad discord" src="https://cdn.dribbble.com/users/411475/screenshots/14542250/media/4599bd4c20a9c9afb9c74cf7c38639bc.jpg">
 <h3>Hai guys this a Discord Bot using Discord.js.</h3>
 <h3>with simple command like</h3>
 <p>1.!help command you can customize.</p>
