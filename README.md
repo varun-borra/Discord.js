@@ -1,5 +1,6 @@
 # Discord.js
 <p>you need to put your <b>token,prefix,categoryId</b>in <b>roe-bot.json</b></P>
+<hr>
 <h3>Hai guys this a Discord Bot using Discord.js.</h3>
 <h3>with simple command like</h3>
 <p>1.!help command you can customize.</p>
