@@ -2,6 +2,7 @@
 <img alt="Dark Squad discord" src="https://cdn.dribbble.com/users/411475/screenshots/14542250/media/4599bd4c20a9c9afb9c74cf7c38639bc.jpg">
 <hr>
 <h2> You need to put your token and categoryId,Channel Id</h2>
+<p><b>first you need to enable developer mode in your discord</b></P>
 <p>you need to put your <b>token,prefix,categoryId</b>in <b>roe-bot.json</b></P>
 <p>you need to put your <b>channel id in commands>poll.js</b></P>
 <hr>
