@@ -8,7 +8,7 @@
 <hr>
 <h3>Hai guys this a Discord Bot using Discord.js.</h3>
 <h3>with simple command like</h3>
-<p>1.!help command you can customize.</p>
+<h4><p>1.!help command you can customize.</p>
 <p>2.!servers by using this command to see the server members status using => !servers</p></p>
 <p>3.!status hello world" ->  to change bot status => playing hello world</p>
 <p>4.Poll --> automatically react with a thumbs up and down emojis in specific channels. </p>
@@ -19,3 +19,4 @@
 <p>8.!createtextchannel,!createvoicechannel</p>
 <p>(createtextchannel using => !createtextchannel</p>
 <p>createvoicechannel using => !createvoicechannel)</p>
+<p>9.!embed</p></h4>
