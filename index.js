@@ -155,6 +155,48 @@ command(client, 'createvoicechannel', (message) => {
   }    
   
 })
+
+
+ 
+  
+  /* embed */
+
+  command(client, 'embed', (message) => {
+    const logo =
+      'https://cdn.dribbble.com/users/411475/screenshots/14542250/media/4599bd4c20a9c9afb9c74cf7c38639bc.jpg'
+
+    const embed = new Discord.MessageEmbed()
+      .setTitle('Example text embed')
+      .setURL('https://cdn.dribbble.com/users/411475/screenshots/14542250/media/4599bd4c20a9c9afb9c74cf7c38639bc.jpg')
+      .setAuthor(message.author.username)
+      .setImage(logo)
+      .setThumbnail(logo)
+      .setFooter('This is a footer')
+      .setColor('#00AAFF')
+      .addFields(
+        {
+          name: 'Field 1',
+          value: 'Hello world',
+          inline: true,
+        },
+        {
+          name: 'Field 2',
+          value: 'Hello world',
+          inline: true,
+        },
+        {
+          name: 'Field 3',
+          value: 'Hello world',
+          inline: true,
+        },
+        {
+          name: 'Field 4',
+          value: 'Hello world',
+        }
+      )
+
+    message.channel.send(embed)
+  })
  
   
 });
